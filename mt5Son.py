@@ -38,7 +38,7 @@ class CustomDataset(Dataset):
             "decoder_attention_mask": target_encoding["attention_mask"].flatten(),
         }
 
-# Veri setini yükle
+# Veri seti
 data = [
   #kkb
   
